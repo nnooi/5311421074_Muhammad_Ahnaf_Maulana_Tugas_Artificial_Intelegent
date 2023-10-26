@@ -1,11 +1,9 @@
 # Muhammad Ahnaf Maulana
 ## 5311421074
 ## Tugas 8 Artificial Intelegent
-#
+
 ## Pendeteksi dan Pengenalan Lampu Lalu Lintas pada Autonomous Vehicle Menggunakan Deep Learning
 
-##
-#
 Di era modern ini, automasi dalam beberapa bidang menjadi salah satu hal yang sering kita temui. Automasi merujuk pada proses penggunaan teknologi, perangkat lunak, atau sistem otomatis untuk mengotomatisasi tugas-tugas atau proses tertentu tanpa perlu campur tangan manusia yang bertujuan untuk meningkatkan efisiensi, mengurangi kesalahan, dan membebaskan atau mengurangi waktu dan sumber daya manusia dari tugas-tugas rutin. Salah satu contohnya yaitu pada Autonomous Vehicle (AV) atau kendaraan otonom.
 
 AV adalah suatu kendaraan yang dirancang untuk dapat beroperasi tanpa intervensi manusia yang telah menggunakan teknologi dan sistem kecerdasan buatan untuk mengemudi sendiri, mendeteksi lingkungan sekitarnya, membuat keputusan, dan mengendalikan kendaraan secara mandiri, yang mana bertujuan untuk meningkatkan keselamatan lalu lintas, efisiensi perjalanan, dan kenyamanan pengendara. Namun dalam pengembangannya, AV memerlukan sistem yang kompeten dalam mendeteksi lingkungan sekitarnya terutama pada saat terdapat lampu lalu lintas yang mengharuskan AV untuk berhenti dan berjalan sesuai dengan lampu lalu lintas.
